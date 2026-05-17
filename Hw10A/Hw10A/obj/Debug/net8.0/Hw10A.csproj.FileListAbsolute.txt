@@ -1,0 +1,15 @@
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\bin\Debug\net8.0\Hw10A.exe
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\bin\Debug\net8.0\Hw10A.deps.json
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\bin\Debug\net8.0\Hw10A.runtimeconfig.json
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\bin\Debug\net8.0\Hw10A.dll
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\bin\Debug\net8.0\Hw10A.pdb
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.AssemblyInfoInputs.cache
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.AssemblyInfo.cs
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.csproj.CoreCompileInputs.cache
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.sourcelink.json
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.dll
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\refint\Hw10A.dll
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.pdb
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\Hw10A.genruntimeconfig.cache
+D:\hw10\FIIT-3-2-4\Hw10A\Hw10A\obj\Debug\net8.0\ref\Hw10A.dll
